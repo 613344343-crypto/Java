@@ -13,6 +13,7 @@ package com.thealgorithms.audiofilters;
 public class EMAFilter {
     private final double alpha;
     private double emaValue;
+    String test0;
     /**
      * Constructs an EMA filter with a given smoothing factor.
      *
